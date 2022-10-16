@@ -1,10 +1,10 @@
 
-<h2 align="center">Hello, I'm Judy 🙂</h2>
-<h3 align="center">Backend student 👩🏼‍💻📚</h3>
+<h2 align="center">Hello, I'm Judy </h2>
+<h3 align="center">Backend student </h3>
 
-- 🌱 I’m currently learning **Python-Django| js- node.js| SQL**
+-  I’m currently learning **Python-Django| js- node.js| SQL**
 
-- ⚡ Fun fact **I love mythologies, criminal cases...**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
